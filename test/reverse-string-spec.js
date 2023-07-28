@@ -13,7 +13,7 @@ describe('reverseString()', function(){
     })
     it('should reverse input string', function(){
         expect(reverseString(str)).to.equal('nuf');
-        //expect(reverseString('happy')).to.equal('yppah');
+
         
     })
 
